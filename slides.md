@@ -7,7 +7,7 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 ## Aplicación Ramón Llull. Casos de uso.
   - Alteraciones catastrales:
-    - Agregación: agrupamiento de 2 o más fincas. 
+    - Agregación: agrupación de 2 o más fincas. 
     - Segregación: división con resultado de una nueva finca segregada y un resto de finca matriz que conserva la referencia catastral original.
     - División para reparcelación: división con resultado de dos o más fincas nuevas y desaparición de la referencia catastral original. 
   - Deslindes (subsanación de discrepancias). 
@@ -15,14 +15,19 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 
-### Agregación
+## Agregación
 ![Agregación](http://labgeo.github.io/meetup-COAATIEA/img/Agg.png)
 
-### Segregación
+
+
+## Segregación
 ![Segregación](http://labgeo.github.io/meetup-COAATIEA/img/Seg.png)
 
-### División
+
+
+## División
 ![División](http://labgeo.github.io/meetup-COAATIEA/img/Div.png)
+
 
 
 ### Estancias
