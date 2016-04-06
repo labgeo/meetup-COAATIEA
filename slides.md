@@ -15,31 +15,31 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 
+### Formatos de presentación
+- Fichero GML
+> <i class="fa fa-info-circle"></i> Agregación, segregación, división y deslindes
+
+- Fichero DXF
+> <i class="fa fa-info-circle"></i> Obra nueva
+
+
 ## Agregación
 ![Agregación](http://labgeo.github.io/meetup-COAATIEA/img/Agg.png)
-
 
 
 ## Segregación
 ![Segregación](http://labgeo.github.io/meetup-COAATIEA/img/Seg.png)
 
 
-
 ## División
 ![División](http://labgeo.github.io/meetup-COAATIEA/img/Div.png)
 
 
+## Deslinde
+![Deslinde](http://labgeo.github.io/meetup-COAATIEA/img/Des.png)
 
-### Estancias
-- Cada planta de la base de datos es una lista de polígonos
-- Cada polígono representa una **estancia** correctamente posicionada sobre la superficie de la Tierra
 
-> <i class="fa fa-info-circle"></i> Un polígono puede también representar elementos de otro tipo (e.g. cerramientos)
 
-- **Obligatoriamente** una estancia  tiene asignada:
-  - Una **única** actividad (e.g. es un aula, es un laboratorio, ...)
-  - Una **única** unidad organizativa (e.g. es de la Facultad de Derecho, es del Departamento de Ecología, ...)
-- **Opcionalmente** una estancia tiene una denominación (e.g. Sala de Exposiciones Aifos)
 
 
 ### Puestos de trabajo
@@ -190,4 +190,4 @@ Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece div
 
 # ¡Gracias!
 
-### Enviad todas vuestras consultas y sugerencias a <i class="fa fa-envelope"></i> sigua@ua.es
+### Enviad todas vuestras consultas y sugerencias a <i class="fa fa-envelope"></i> proyecto.ramonllull@ua.es
