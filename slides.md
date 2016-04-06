@@ -16,7 +16,13 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 ### Agregación
-![Agregación](http://labgeo.github.io/sigua-pas-meetup/img/agg.png)
+![Agregación](http://labgeo.github.io/meetup-COAATIEA/img/Agg.png)
+
+### Segregación
+![Segregación](http://labgeo.github.io/meetup-COAATIEA/img/Seg.png)
+
+### División
+![División](http://labgeo.github.io/meetup-COAATIEA/img/Div.png)
 
 
 ### Estancias
