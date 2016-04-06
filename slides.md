@@ -1,11 +1,11 @@
 # Sesión técnica para el COAATIEA
 ## Recursos telemáticos para georreferenciación
 
-Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [Instituto Interuniversitario de Geografía](http://iig.ua.es/) / <i class="fa fa-twitter-square"></i> [@geomatica_ua](https://twitter.com/geomatica_ua)
+Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [Instituto Interuniversitario de Geografía](http://iig.ua.es/) / <i class="fa fa-twitter-square"></i> [@P_ramonllull](https://twitter.com/P_ramonllull)
 
 
 
-### Contenidos
+## Aplicación Ramón Llull. Casos de uso.
   - Alteraciones catastrales:
     - Agregación: agrupamiento de 2 o más fincas. 
     - Segregación: división con resultado de una nueva finca segregada y un resto de finca matriz que conserva la referencia catastral original.
@@ -15,8 +15,8 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 
-### La base de datos espacial de la UA
-![Estructura BD](http://labgeo.github.io/sigua-pas-meetup/img/db_structure.png)
+### Agregación
+![Agregación](http://labgeo.github.io/sigua-pas-meetup/img/agg.png)
 
 
 ### Estancias
