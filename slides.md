@@ -5,22 +5,22 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 
-## Aplicación Ramón Llull. Casos de uso.
-  - Alteraciones catastrales:
-    - Agregación: agrupación de 2 o más fincas. 
-    - Segregación: división con resultado de una nueva finca segregada y un resto de finca matriz que conserva la referencia catastral original.
-    - División para reparcelación: división con resultado de dos o más fincas nuevas y desaparición de la referencia catastral original. 
-  - Deslindes (subsanación de discrepancias). 
-  - Obra nueva: permite resolver el procedimiento de inscripción de edificaciones en régimen de propiedad horizontal, y engloba tanto la vivienda nueva como la legalización de vivienda existente, construcción anexa, ampliación de vivienda, construcción de piscina, etc. 
-
-
-
-### Formatos de presentación
+### Formatos de presentación en Catastro
 - Fichero GML
 > <i class="fa fa-info-circle"></i> Agregación, segregación, división y deslindes
 
 - Fichero DXF
 > <i class="fa fa-info-circle"></i> Obra nueva
+
+
+
+## Aplicación Ramón Llull. Casos de uso.
+  - Alteraciones catastrales:
+    - Agregación: agrupación de 2 o más fincas. 
+    - Segregación: división con resultado de una nueva finca segregada y un resto de finca matriz que conserva la referencia catastral original.
+    - División para reparcelación: división con resultado de dos o más fincas nuevas y desaparición de la referencia catastral original. 
+  - Deslindes: resuelve la subsanación de discrepancias.
+  - Obra nueva: permite resolver el procedimiento de inscripción de edificaciones en régimen de propiedad horizontal, y engloba tanto la vivienda nueva como la legalización de vivienda existente, construcción anexa, ampliación de vivienda, construcción de piscina, etc. 
 
 
 ## Agregación
