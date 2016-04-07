@@ -14,7 +14,7 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 
-## Aplicación Ramón Llull. Casos de uso.
+### Aplicación Ramón Llull. Casos de uso.
   - Alteraciones catastrales:
     - Agregación: agrupación de 2 o más fincas. 
     - Segregación: división con resultado de una nueva finca segregada y un resto de finca matriz que conserva la referencia catastral original.
@@ -23,11 +23,11 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
   - Obra nueva: permite resolver el procedimiento de inscripción de edificaciones en régimen de propiedad horizontal, y engloba tanto la vivienda nueva como la legalización de vivienda existente, construcción anexa, ampliación de vivienda, construcción de piscina, etc. 
 
 
-## Agregación
+#### Agregación
 ![Agregación](http://labgeo.github.io/meetup-COAATIEA/img/Agg.png)
 
 
-## Segregación
+#### Segregación
 ![Segregación](http://labgeo.github.io/meetup-COAATIEA/img/Seg.png)
 
 
@@ -35,12 +35,11 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 ![División](http://labgeo.github.io/meetup-COAATIEA/img/Div.png)
 
 
-## Deslinde
+#### Deslinde
 ![Deslinde](http://labgeo.github.io/meetup-COAATIEA/img/Des.png)
 
 
-
-## Obra nueva
+#### Obra nueva
 ![ObraNueva](http://labgeo.github.io/meetup-COAATIEA/img/ObraNueva.png)
 
 
@@ -65,6 +64,9 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 ![Tramitar un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-5.png)
 
 
+
+#### Veamos un ejemplo
+![Descargar parcela matriz](http://labgeo.github.io/understandingRL/img/understandingRL-5.png)
 
 # ¡Gracias!
 
