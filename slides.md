@@ -1,7 +1,7 @@
 # Sesión técnica para el COAATIEA
 ## Recursos telemáticos para georreferenciación
 
-Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [Instituto Interuniversitario de Geografía](http://iig.ua.es/) / <i class="fa fa-twitter-square"></i> [@P_ramonllull](https://twitter.com/P_ramonllull)
+Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [Instituto Interuniversitario de Geografía](http://iig.ua.es/) / [Proyecto Ramón Llull](http://www.arsmagna.es) / <i class="fa fa-twitter-square"></i> [@P_RamonLlull](https://twitter.com/P_RamonLlull)
 
 
 
@@ -31,7 +31,7 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 ![Segregación](http://labgeo.github.io/meetup-COAATIEA/img/Seg.png)
 
 
-## División
+#### División
 ![División](http://labgeo.github.io/meetup-COAATIEA/img/Div.png)
 
 
@@ -45,8 +45,6 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 #### Cómo tramitar alteraciones catastrales en 5 pasos
-
-[Proyecto Ramón Llull](http://www.arsmagna.es) / <i class="fa fa-twitter-square"></i> [@P_RamonLlull](https://twitter.com/P_RamonLlull)
 
 
 ![Crear un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-1.png)
@@ -65,8 +63,30 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 
-#### Veamos un ejemplo
-![Descargar parcela matriz](http://labgeo.github.io/understandingRL/img/understandingRL-5.png)
+#### Veamos un ejemplo para una alteración catastral
+
+
+![Abre fichero DXF](http://labgeo.github.io/meetup-COAATIEA/img/cap5/cad1.jpeg)
+
+
+![Edita fichero DXF](http://labgeo.github.io/meetup-COAATIEA/img/cap5/cad2.jpeg)
+
+
+![Carga fichero DXF en RLL](http://labgeo.github.io/meetup-COAATIEA/img/cap5/ifazSgr4.jpeg)
+
+
+#### Veamos un ejemplo para una obra 
+
+
+![Plantas](http://labgeo.github.io/meetup-COAATIEA/img/cap6/pltSig1.jpeg)
+
+
+![Plantas en CAD](http://labgeo.github.io/meetup-COAATIEA/img/cap6/onCad1.jpeg)
+
+
+![Plantas general](http://labgeo.github.io/meetup-COAATIEA/img/cap6/onCad2.jpeg)
+
+
 
 # ¡Gracias!
 
