@@ -5,12 +5,12 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 
-### Formatos de presentación en Catastro
-- Fichero GML
-> <i class="fa fa-info-circle"></i> Agregación, segregación, división y deslindes
+### Formatos para presentación en Catastro
+- Fichero GML: para agregaciones, segregaciones, divisiones y deslindes
+> <i class="fa fa-info-circle"></i> Se basa en el esquema [**Cadastral Parcel**](https://inspire-forum.jrc.ec.europa.eu/pg/pages/view/1806/cadastral-parcels) de INSPIRE
 
-- Fichero DXF
-> <i class="fa fa-info-circle"></i> Obra nueva
+- Fichero DXF: para obras nuevas y divisiones horizontales.
+> <i class="fa fa-info-circle"></i> De momento no se puede generar el GML para edificios. Se basa en el esquema [**Building**](http://inspire.ec.europa.eu/documents/Data_Specifications/INSPIRE_DataSpecification_BU_v3.0rc3.pdf) de INSPIRE.
 
 
 
@@ -40,151 +40,29 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 
-
-
-### Puestos de trabajo
-- Una estancia puede albergar **uno o varios puestos de trabajo** (e.g. profesor titular, técnico, ...) y **cargos** (e.g. director de departamento, vicerrector, ...)
-
-> <i class="fa fa-info-circle"></i> La base de datos impide automáticamente ubicar puestos de trabajo en estancias de menos de 6 m² o recintos no aptos (e.g. un aseo o un tabique)
-
-> <i class="fa fa-info-circle"></i> Puedo desempeñar mi puesto de trabajo en una estancia que no está adscrita a mi unidad organizativa
-
-
-### Códigos SIGUA
-Cada estancia se identifica mediante un **código** de 9 posiciones que se puede leer siguiendo la lógica de una dirección postal
-
-![Código SIGUA](http://labgeo.github.io/sigua-pas-meetup/img/room_code.png)
-
-> <i class="fa fa-info-circle"></i> Más información en http://web.ua.es/es/sigua/el-codigo-sigua.html
+## Obra nueva
+![ObraNueva](http://labgeo.github.io/meetup-COAATIEA/img/ObraNueva.png)
 
 
 
-### La web de SIGUA
-SIGUA es uno más de los diversos sistemas de información corporativos de la UA. Su función principal es mantener  la base de datos espacial de la UA y facilitar su uso por parte de la comunidad universitaria y el público en general mediante la web:
-**https://www.sigua.ua.es**
+#### Cómo tramitar alteraciones catastrales en 5 pasos
 
-> <i class="fa fa-info-circle"></i> Organizativamente, SIGUA es una subunidad del Vicerrectorado de Campus. Más información y recursos útiles en http://web.ua.es/es/sigua/
+[Proyecto Ramón Llull](http://www.arsmagna.es) / <i class="fa fa-twitter-square"></i> [@P_RamonLlull](https://twitter.com/P_RamonLlull)
 
 
-### Compatibilidad
-Es una aplicación **HTML5**. ¿Usas un navegador compatible?
-![HTML5 compatibility](http://labgeo.github.io/sigua-pas-meetup/img/caniuse_html5.png)
-
-<i class="fa fa-asterisk"></i> *Fuente: http://caniuse.com/#cats=CSS,HTML5,JS%20API (5/11/2015)*
+![Crear un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-1.png)
 
 
-### Visualización
-- Es una aplicación diseñada específicamente para trabajar con cartografía
-- Navegar sobre el mapa es sencillo:
-
-| Desplazar               | Acercar                    | Alejar                  |
-| :---------------------: | :------------------------: | :---------------------: |
-| `botón izq. + arrastre` | `rueda adelante` o botón  <i class="fa fa-plus-square"></i>| `rueda atrás` o botón <i class="fa fa-minus-square"></i> |
------------------------------------------------------------------------------------
-- Se puede configurar el aspecto del mapa desde el diálogo `Capas`
-
-> <i class="fa fa-info-circle"></i> Consejo: Usa el diálogo `Capas` para conmutar las etiquetas de las estancias entre código SIGUA y denominación
+![Compartir un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-2.png)
 
 
-### Visualización por escalas
-- La navegación sobre el mapa es fluida porque se usa un sistema de pre-renderizado
-- El mapa se pre-renderiza a 22 niveles de detalle distintos: el nivel 0 es la escala de mínimo detalle y el nivel 21 la de máximo
-
-> <i class="fa fa-info-circle"></i> Hacer zoom implica cambiar de nivel, y cada nivel está configurado para que se vean u oculten determinados elementos
+![Editar un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-3.png)
 
 
-### Visualización por plantas
-- Las estancias se visualizan entre el nivel 19 (escala 1:1330) y el 21
-- Sólo cuando estamos en estos niveles de detalle se activa el **selector de plantas**
-
-> <i class="fa fa-exclamation-triangle"></i> Atención: Cuando volvemos al nivel 19 desde un nivel inferior se visualizará la planta que hubiera seleccionada anteriormente
+![Validar un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-4.png)
 
 
-### Consulta interactiva de estancias
-- El mapa es una página web donde una posición es un hipervínculo que nos da información de la estancia que hay en dicha posición
-- La consulta interactiva de estancias tiene sentido a partir del nivel de detalle 19, cuando éstas estan visibles
-
-> <i class="fa fa-exclamation-triangle"></i> Los elementos dotacionales (e.g. viario, parkings, ...) se pueden consultar interactivamente sólo si la planta baja está seleccionada
-
-> <i class="fa fa-info-circle"></i> También existen hipervínculos predefinidos o **marcadores** en el mapa (e.g. edificios, fotografías panorámicas)
-
-
-### Salida impresa
-Accediendo a `Utilidades > Imprimir` el diálogo `Impresión de mapa` ofrece diversas opciones:
-
-| Formato                                | Impresión directa del mapa | Impresión por edificio y planta |
-| :------------------------------------: | :------------------------: | :-----------------------------: |
-| <i class="fa fa-file-image-o"></i> PNG | `Descargar imagen PNG`     |                                 |
-| <i class="fa fa-file-pdf-o"></i> PDF   | `Descargar PDF`            | `Impresión de edificios`        |
-
-> <i class="fa fa-info-circle"></i> La opción `Impresión de edificios` es un enlace al diálogo `Edificios`. Cada edificio de la lista da acceso a su propio asistente de impresión PDF mediante su correspondiente icono <i class="fa fa-file-pdf-o"></i>
-
-
-
-### Integración de sistemas
-![Integración de sistemas](http://labgeo.github.io/sigua-pas-meetup/img/sys_integration.png)
-
-
-
-### ¿Para qué una base de datos espacial?
-- Reparto equitativo según [Modelo de Espacios de la UA](http://web.ua.es/es/consejo-gobierno/documentos/consejo-de-gobierno-30-07-2013/punto-7-1-modelo-espacios-ua.pdf)
-- Mejor cumplimiento de normas de seguridad y salud laboral
-- Mayor transparencia en procesos de auditoría patrimonial y contable
-- Medio idóneo de dar a conocer la configuración, organización, usos del suelo y dotaciones de la UA a todos sus usuarios y a la sociedad civil
-
-
-
-### Protocolo de Espacios
-- Guía de procedimientos para la provisión de datos espaciales redactada por el Vicerrectorado de Infraestructuras en 2005
-- Marco operativo que establece los canales de obtención de datos:
-  - planimétricos
-  - organizativos (unidades organizativas, puestos de trabajo y cargos)
-  - de reparto de estancias
-  - de localización de puestos/cargos
-  - de uso de las estancias
-- Define la figura del Gestor SIGUA o responsable de espacios a nivel de unidad organizativa
-
-
-### Operativa del Protocolo de Espacios
-![Protocolo de Espacios](http://labgeo.github.io/sigua-pas-meetup/img/spatial_protocol.png)
-
-
-### Acceso a recursos del Protocolo de Espacios
-- Autentificación mediante credenciales personales de la UA (email/password)
-- Vías de autentificación:
-  - UACloud (en desarrollo)
-  - En la web de SIGUA, accediendo a `Usuario` e introduciendo credenciales en el diálogo `Autentificación de usuarios`
-- El sistema reconoce si el perfil del usuario es `ADMINISTRADOR_SIGUA` y autoriza el uso de los recursos del Protocolo de Espacios mediante el icono <i class="fa fa-user fa-user-gold"></i> de herramientas específicas para el usuario autentificado
-
-
-### Expediente de personal
-- <i class="fa fa-user fa-user-gold"></i> > `Protocolo de espacios` > pestaña de `Personal` o `Cargos`
-- Ubicación de puestos de trabajo o cargos individuales en 3 pasos:
-  - <i class="fa fa-pencil"></i> Editar el puesto/cargo
-  - <i class="fa fa-keyboard-o"></i> Escribir el código SIGUA de destino en el cuadro de texto autocompletable
-  - <i class="fa fa-floppy-o"></i> Presionar botón `Ubicar` para guardar el cambio
-
-> <i class="fa fa-exclamation-triangle"></i> Se envían correos automáticos como recordatorio cuando existen puestos o cargos pendientes de ubicación
-
-> <i class="fa fa-exclamation-triangle"></i> No es posible ubicar personas en estancias de menos de 6 m² o recintos no aptos
-
-
-### Expediente de estancias
-- <i class="fa fa-user fa-user-gold"></i> > `Protocolo de espacios` > pestaña de `Estancias`
-- Asignación de actividades a estancias individuales en 3 pasos:
-  - <i class="fa fa-pencil"></i> Editar la estancia
-  - <i class="fa fa-mouse-pointer"></i> Seleccionar una actividad
-  - <i class="fa fa-floppy-o"></i> Presionar botón `Actualizar estancia` para guardar el cambio
-
-> <i class="fa fa-info-circle"></i> El catálogo de actividades está armonizado con los criterios del Servicio de Prevención
-
-> <i class="fa fa-info-circle"></i> Opcionalmente se puede indicar una denominación que proporcione información adicional (no es necesario ser redundante)
-
-
-### Utilidades de apoyo
-> <i class="fa fa-lightbulb-o fa-lightbulb-gold fa-lg"></i> Cualquier usuario autentificado como PAS/PDI puede enviar a su Gestor SIGUA el código de la estancia en que desempeña su puesto enlazándola en el mapa y pulsando el botón `Ubicarme`
-
-> <i class="fa fa-lightbulb-o fa-lightbulb-gold fa-lg"></i> El Gestor SIGUA puede localizar todas las estancias de su unidad organizativa desde <i class="fa fa-user fa-user-gold"></i> > `Ver estancias` > diálogo `Mis estancias`
+![Tramitar un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-5.png)
 
 
 
