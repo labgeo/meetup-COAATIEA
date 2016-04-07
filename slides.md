@@ -75,7 +75,8 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 ![Carga fichero DXF en RLL](http://labgeo.github.io/meetup-COAATIEA/img/cap5/ifazSgr4.jpeg)
 
 
-#### Veamos un ejemplo para una obra 
+
+#### Veamos un ejemplo para una edificación
 
 
 ![Plantas](http://labgeo.github.io/meetup-COAATIEA/img/cap6/pltSig1.jpeg)
@@ -85,6 +86,9 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 ![Plantas general](http://labgeo.github.io/meetup-COAATIEA/img/cap6/onCad2.jpeg)
+
+
+![Tabla de usos](http://labgeo.github.io/meetup-COAATIEA/img/cap6/ifazON5.jpeg)
 
 
 
