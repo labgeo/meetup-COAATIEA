@@ -10,7 +10,7 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 > <i class="fa fa-info-circle"></i> Se basa en el esquema [**Cadastral Parcel**](https://inspire-forum.jrc.ec.europa.eu/pg/pages/view/1806/cadastral-parcels) de INSPIRE
 
 - Fichero DXF: para obras nuevas y divisiones horizontales.
-> <i class="fa fa-info-circle"></i> De momento no se puede generar el GML para edificios. Se basa en el esquema [**Building**](http://inspire.ec.europa.eu/documents/Data_Specifications/INSPIRE_DataSpecification_BU_v3.0rc3.pdf) de INSPIRE.
+> <i class="fa fa-info-circle"></i> El formato GML para edificios basado en el esquema  [**Building**](http://inspire.ec.europa.eu/documents/Data_Specifications/INSPIRE_DataSpecification_BU_v3.0rc3.pdf) de INSPIRE, no se va a generar hasta que el nuevo formato no esté plenamente operativo por Catastro.
 
 
 
@@ -78,7 +78,7 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 ![Carga fichero DXF en RLL](http://labgeo.github.io/meetup-COAATIEA/img/cap5/ifazSgr4.jpeg)
 
 
-Instrucciones paso a paso para [Alteraciones catastrales](http://www.arsmagna.es/files/cursoBenissa/supuestos_practicos_AC.pdf)
+Más información con instrucciones paso a paso para [Alteraciones catastrales](http://www.arsmagna.es/files/cursoBenissa/supuestos_practicos_AC.pdf)
 
 
 
@@ -98,10 +98,24 @@ Instrucciones paso a paso para [Alteraciones catastrales](http://www.arsmagna.es
 ![Tabla de usos](http://labgeo.github.io/meetup-COAATIEA/img/cap6/ifazON5.jpeg)
 
 
-Instrucciones paso a paso para [Obra Nueva y División horizontal](http://www.arsmagna.es/files/cursoBenissa/supuestos_practicos_ON.pdf)
+Más información con instrucciones paso a paso para [Obra Nueva y División horizontal](http://www.arsmagna.es/files/cursoBenissa/supuestos_practicos_ON.pdf)
 
 
-
+# ¿Cuáles son las claves funcionales del Proyecto Ramón Llull?}
+  - Cartografía de referencia
+  - Coordinación de agentes
+  - Distribución de roles
+  - Seguridad en los accesos
+  - Almacén de datos centralizado
+  - Edición individualizada de expedientes
+  - Organización jerárquica del interfaz de usuario
+  
+  
+  
 # ¡Gracias!
+### Para consultar la documentación, descargar la aplicación y obtener información acerca de cursos y eventos visitad: 
 
-### Enviad todas vuestras consultas y sugerencias a <i class="fa fa-envelope"></i> proyecto.ramonllull@ua.es
+[http://www.arsmagna.es](http://www.arsmagna.es)
+
+Para solicitar ayuda técnica enviad un correo electrónico <i class="fa fa-envelope"></i>:
+proyecto.ramonllull@ua.es
