@@ -65,14 +65,49 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 #### Veamos un ejemplo para una alteración catastral
 
+![Agregación](http://labgeo.github.io/meetup-COAATIEA/img/cap5/ifazAgr.jpeg)
 
-![Carga fichero FXCC](http://labgeo.github.io/meetup-COAATIEA/img/cap5/downloadLand.jpeg)
+
+![Agregación](http://labgeo.github.io/meetup-COAATIEA/img/cap5/downloadLand.jpeg)
+
+
+![Agregación](http://labgeo.github.io/meetup-COAATIEA/img/cap5/ifazAgr2.jpeg)
+
+
+![Agregación](http://labgeo.github.io/meetup-COAATIEA/img/cap5/ifazAgr3.jpeg)
+
+
+![Agregación](http://labgeo.github.io/meetup-COAATIEA/img/cap5/ifazAgr4.jpeg)
+
+
+![Agregación](http://labgeo.github.io/meetup-COAATIEA/img/cap5/ifazSgr1.jpeg)
+
+
+![Agregación](http://labgeo.github.io/meetup-COAATIEA/img/cap5/copyParcelAgr.jpeg)
+
+
+![Agregación](http://labgeo.github.io/meetup-COAATIEA/img/cap5/pasteParcelAgr.jpeg)
+
+
+![Agregación](http://labgeo.github.io/meetup-COAATIEA/img/cap5/ifazSgr2.jpeg)
 
 
 ![Abre fichero DXF](http://labgeo.github.io/meetup-COAATIEA/img/cap5/cad1.jpeg)
 
 
 ![Edita fichero DXF](http://labgeo.github.io/meetup-COAATIEA/img/cap5/cad2.jpeg)
+
+
+![Edita fichero DXF](http://labgeo.github.io/meetup-COAATIEA/img/cap5/cad3.jpeg)
+
+
+![Edita fichero DXF](http://labgeo.github.io/meetup-COAATIEA/img/cap5/cad4.jpeg)
+
+
+![Carga fichero DXF en RLL](http://labgeo.github.io/meetup-COAATIEA/img/cap5/ifazSgr5.jpeg)
+
+
+![Carga fichero DXF en RLL](http://labgeo.github.io/meetup-COAATIEA/img/cap5/ifazSgr6.jpeg)
 
 
 ![Carga fichero DXF en RLL](http://labgeo.github.io/meetup-COAATIEA/img/cap5/ifazSgr4.jpeg)
@@ -98,7 +133,10 @@ Más información con instrucciones paso a paso para [Alteraciones catastrales](
 ![Plantas general](http://labgeo.github.io/meetup-COAATIEA/img/cap6/onCad2.jpeg)
 
 
-![Plantas general](http://labgeo.github.io/meetup-COAATIEA/img/cap6/onCad3.jpeg)
+![Planta significativa](http://labgeo.github.io/meetup-COAATIEA/img/cap6/onCad3.jpeg)
+
+
+![Tabla de usos](http://labgeo.github.io/meetup-COAATIEA/img/cap6/ifazON5.jpeg)
 
 
 ![Tabla de usos](http://labgeo.github.io/meetup-COAATIEA/img/cap6/ifazON5.jpeg)
