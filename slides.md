@@ -101,7 +101,8 @@ Más información con instrucciones paso a paso para [Alteraciones catastrales](
 Más información con instrucciones paso a paso para [Obra Nueva y División horizontal](http://www.arsmagna.es/files/cursoBenissa/supuestos_practicos_ON.pdf)
 
 
-# ¿Cuáles son las claves funcionales del Proyecto Ramón Llull?}
+
+### ¿Cuáles son las claves funcionales del Proyecto Ramón Llull?
   - Cartografía de referencia
   - Coordinación de agentes
   - Distribución de roles
@@ -109,13 +110,13 @@ Más información con instrucciones paso a paso para [Obra Nueva y División hor
   - Almacén de datos centralizado
   - Edición individualizada de expedientes
   - Organización jerárquica del interfaz de usuario
+
+
   
-  
-  
-# ¡Gracias!
+# ¡Gracias! Y recordad.
 ### Para consultar la documentación, descargar la aplicación y obtener información acerca de cursos y eventos visitad: 
 
 [http://www.arsmagna.es](http://www.arsmagna.es)
 
-Para solicitar ayuda técnica enviad un correo electrónico <i class="fa fa-envelope"></i>:
+### Para solicitar ayuda técnica enviad un correo electrónico <i class="fa fa-envelope"></i>:
 proyecto.ramonllull@ua.es
