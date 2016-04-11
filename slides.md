@@ -89,10 +89,16 @@ Más información con instrucciones paso a paso para [Alteraciones catastrales](
 ![Plantas](http://labgeo.github.io/meetup-COAATIEA/img/cap6/pltSig1.jpeg)
 
 
+![Plantas general](http://labgeo.github.io/meetup-COAATIEA/img/cap6/pltSig3.jpeg)
+
+
 ![Plantas en CAD](http://labgeo.github.io/meetup-COAATIEA/img/cap6/onCad1.jpeg)
 
 
 ![Plantas general](http://labgeo.github.io/meetup-COAATIEA/img/cap6/onCad2.jpeg)
+
+
+![Plantas general](http://labgeo.github.io/meetup-COAATIEA/img/cap6/onCad3.jpeg)
 
 
 ![Tabla de usos](http://labgeo.github.io/meetup-COAATIEA/img/cap6/ifazON5.jpeg)
@@ -102,7 +108,7 @@ Más información con instrucciones paso a paso para [Obra Nueva y División hor
 
 
 
-### ¿Cuáles son las claves funcionales del Proyecto Ramón Llull?
+#### ¿Cuáles son las claves funcionales del Proyecto Ramón Llull?
   - Cartografía de referencia
   - Coordinación de agentes
   - Distribución de roles
@@ -113,10 +119,8 @@ Más información con instrucciones paso a paso para [Obra Nueva y División hor
 
 
   
-# ¡Gracias! Y recordad.
-### Para consultar la documentación, descargar la aplicación y obtener información acerca de cursos y eventos visitad: 
-
+## ¡Gracias! Y recordad.
+#### Para consultar la documentación, descargar la aplicación y obtener información acerca de cursos y eventos visitad: 
 [http://www.arsmagna.es](http://www.arsmagna.es)
-
-### Para solicitar ayuda técnica enviad un correo electrónico <i class="fa fa-envelope"></i>:
+#### Para solicitar ayuda técnica enviad un correo electrónico <i class="fa fa-envelope"></i>:
 proyecto.ramonllull@ua.es
