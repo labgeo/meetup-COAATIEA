@@ -47,23 +47,26 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 #### Cómo tramitar alteraciones catastrales en 5 pasos
 
 
-![Crear un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-1.png)
+![1. Crear un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-1.png)
 
 
-![Compartir un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-2.png)
+![2. Compartir un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-2.png)
 
 
-![Editar un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-3.png)
+![3. Editar un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-3.png)
 
 
-![Validar un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-4.png)
+![4. Validar un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-4.png)
 
 
-![Tramitar un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-5.png)
+![5. Tramitar un expediente](http://labgeo.github.io/understandingRL/img/understandingRL-5.png)
 
 
 
 #### Veamos un ejemplo para una alteración catastral
+
+
+![Carga fichero FXCC](http://labgeo.github.io/meetup-COAATIEA/img/cap5/downloadLand.jpeg)
 
 
 ![Abre fichero DXF](http://labgeo.github.io/meetup-COAATIEA/img/cap5/cad1.jpeg)
@@ -73,6 +76,10 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 ![Carga fichero DXF en RLL](http://labgeo.github.io/meetup-COAATIEA/img/cap5/ifazSgr4.jpeg)
+
+
+Instrucciones paso a paso para [Alteraciones catastrales](http://www.arsmagna.es/files/cursoBenissa/supuestos_practicos_AC.pdf)
+
 
 
 
@@ -89,6 +96,9 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 ![Tabla de usos](http://labgeo.github.io/meetup-COAATIEA/img/cap6/ifazON5.jpeg)
+
+
+Instrucciones paso a paso para [Obra Nueva y División horizontal](http://www.arsmagna.es/files/cursoBenissa/supuestos_practicos_ON.pdf)
 
 
 
