@@ -122,6 +122,9 @@ Más información con instrucciones paso a paso para [Alteraciones catastrales](
 #### Veamos un ejemplo para una edificación
 
 
+[NORMA DE ENTREGA DE ACTUALIZACIONES DE LA CARTOGRAFÍA CATASTRAL RÚSTICA Y URBANA.FORMATO FXCC PARA INTERCAMBIO DE INFORMACIÓN GRÁFICA ASOCIADA A PARCELAS CATASTRALES.](http://www.catastro.minhap.gob.es/documentos/formatos_intercambio/formato_fxcc.pdf)
+
+
 ![Plantas](http://labgeo.github.io/meetup-COAATIEA/img/ON/ONrefcatast.png)
 
 
