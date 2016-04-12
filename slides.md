@@ -1,7 +1,7 @@
 # Sesión técnica para el COAATIEA
 ## Recursos telemáticos para georreferenciación
-
-Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [Instituto Interuniversitario de Geografía](http://iig.ua.es/) / [Proyecto Ramón Llull](http://www.arsmagna.es) / <i class="fa fa-twitter-square"></i> [@P_RamonLlull](https://twitter.com/P_RamonLlull)
+Miguel Fernández Moreno
+técnico del [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [Instituto Interuniversitario de Geografía](http://iig.ua.es/) / [Proyecto Ramón Llull](http://www.arsmagna.es) / <i class="fa fa-twitter-square"></i> [@P_RamonLlull](https://twitter.com/P_RamonLlull)
 
 
 
