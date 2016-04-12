@@ -10,7 +10,7 @@ técnico del [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [In
 > <i class="fa fa-info-circle"></i> Se basa en el esquema [**Cadastral Parcel**](https://inspire-forum.jrc.ec.europa.eu/pg/pages/view/1806/cadastral-parcels) de INSPIRE
 
 - Fichero DXF: para obras nuevas y divisiones horizontales.
-> <i class="fa fa-info-circle"></i> El formato GML para edificios basado en el esquema  [**Building**](http://inspire.ec.europa.eu/documents/Data_Specifications/INSPIRE_DataSpecification_BU_v3.0rc3.pdf) de INSPIRE, no se va generará hasta que el formato no esté plenamente operativo en Catastro.
+> <i class="fa fa-info-circle"></i> El formato GML para edificios basado en el esquema  [**Building**](http://inspire.ec.europa.eu/documents/Data_Specifications/INSPIRE_DataSpecification_BU_v3.0rc3.pdf) de INSPIRE, no se generará hasta que el formato no esté plenamente operativo en Catastro.
 
 
 
