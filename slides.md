@@ -10,7 +10,7 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 > <i class="fa fa-info-circle"></i> Se basa en el esquema [**Cadastral Parcel**](https://inspire-forum.jrc.ec.europa.eu/pg/pages/view/1806/cadastral-parcels) de INSPIRE
 
 - Fichero DXF: para obras nuevas y divisiones horizontales.
-> <i class="fa fa-info-circle"></i> El formato GML para edificios basado en el esquema  [**Building**](http://inspire.ec.europa.eu/documents/Data_Specifications/INSPIRE_DataSpecification_BU_v3.0rc3.pdf) de INSPIRE, no se va a generar hasta que el nuevo formato no esté plenamente operativo por Catastro.
+> <i class="fa fa-info-circle"></i> El formato GML para edificios basado en el esquema  [**Building**](http://inspire.ec.europa.eu/documents/Data_Specifications/INSPIRE_DataSpecification_BU_v3.0rc3.pdf) de INSPIRE, no se va generará hasta que el formato no esté plenamente operativo en Catastro.
 
 
 
@@ -20,7 +20,7 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
     - Segregación: división con resultado de una nueva finca segregada y un resto de finca matriz que conserva la referencia catastral original.
     - División para reparcelación: división con resultado de dos o más fincas nuevas y desaparición de la referencia catastral original. 
   - Deslindes: resuelve la subsanación de discrepancias.
-  - Obra nueva: permite resolver el procedimiento de inscripción de edificaciones en régimen de propiedad horizontal, y engloba tanto la vivienda nueva como la legalización de vivienda existente, construcción anexa, ampliación de vivienda, construcción de piscina, etc. 
+  - Obra nueva: permite resolver el procedimiento de inscripción de edificaciones en régimen de propiedad horizontal, y engloba tanto la vivienda nueva como la legalización de vivienda existente...
 
 
 #### Agregación
@@ -64,7 +64,6 @@ Creado por el [Laboratorio de Geomática](http://iig.ua.es/es/geomatica/) del [I
 
 
 #### Veamos un ejemplo para una alteración catastral
-
 
 
 ![Agregación1](http://labgeo.github.io/meetup-COAATIEA/img/cap5/ifazAgr.jpeg)
@@ -123,6 +122,9 @@ Más información con instrucciones paso a paso para [Alteraciones catastrales](
 #### Veamos un ejemplo para una edificación
 
 
+![Plantas](http://labgeo.github.io/meetup-COAATIEA/img/ON/ONrefcatast.png)
+
+
 ![Plantas](http://labgeo.github.io/meetup-COAATIEA/img/cap6/pltSig1.jpeg)
 
 
@@ -141,7 +143,7 @@ Más información con instrucciones paso a paso para [Alteraciones catastrales](
 ![Tabla de usos](http://labgeo.github.io/meetup-COAATIEA/img/cap6/ifazON5.jpeg)
 
 
-![Tabla de usos](http://labgeo.github.io/meetup-COAATIEA/img/cap6/ifazON5.jpeg)
+![Tabla de usos](http://labgeo.github.io/meetup-COAATIEA/img/cap6/ifazON6.jpeg)
 
 
 Más información con instrucciones paso a paso para [Obra Nueva y División horizontal](http://www.arsmagna.es/files/cursoBenissa/supuestos_practicos_ON.pdf)
