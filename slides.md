@@ -165,7 +165,7 @@ Más información con instrucciones paso a paso para [Obra Nueva y División hor
 
   
 ## ¡Gracias! Y recordad.
-#### Para consultar la documentación, descargar la aplicación y obtener información acerca de cursos y eventos visitad: 
+#### Para consultar la documentación, descargar la aplicación y obtener más información visitad: 
 [http://www.arsmagna.es](http://www.arsmagna.es)
 #### Para solicitar ayuda técnica enviad un correo electrónico <i class="fa fa-envelope"></i>:
 proyecto.ramonllull@ua.es
